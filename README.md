@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ASHISH KALSI</h1>
-<h3 align="center">Software Engineer Intern @ Oceaneering</h3>
+<h3 align="center">Software Engineer, a full stack dev </h3>
 
-- 🔭 I’m currently working on **Generative AI**
+- 🔭 I’m currently working on ** creating full stack applications / products**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashishkalsi07](https://github.com/ashishkalsi07)
 
